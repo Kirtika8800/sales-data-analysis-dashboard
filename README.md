@@ -31,4 +31,5 @@ This project presents an interactive sales dashboard built using Excel/Power BI 
 - Profit trends indicate 
 
 ## 📸 Dashboard Preview
+https://github.com/Kirtika8800/sales-data-analysis-dashboard/blob/main/Sales%20analysis%20Dashboard.png
 
